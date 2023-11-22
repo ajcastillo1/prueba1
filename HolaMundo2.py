@@ -1,3 +1,3 @@
 print('hola dos')
 print('mensaje dos')
-print("Linea 1 desde vsc")
+print("Linea 1 desde vvisualstudiocode")
